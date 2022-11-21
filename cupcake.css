@@ -1,0 +1,43 @@
+body{
+    margin: 0;padding: 0;
+}
+.container{
+    width: 95%;
+    margin: auto;
+    background-color: #e5d9b6;
+    overflow: auto;
+  
+}
+.container h2{
+background-color: #a4be7b;
+text-align: center;
+display: block;
+}
+.div1{
+   padding-left: 200px;
+}
+.div1 .pic{
+    display: inline-block;
+}
+img{
+    height: 700px;
+    padding-right: 20px;
+}
+ .div1 .ingr{
+    display: inline-block;
+    position: absolute;
+    width: 35%;
+    font-size: 20px;
+}
+.div1 .inst{
+    display: inline-block;
+    position: absolute;
+    top: 420px;
+    text-align: justify;
+    width: 35%;
+    font-size: 19px;
+}
+.head{
+    text-align: center;
+    background-color: #a4be7b;
+}

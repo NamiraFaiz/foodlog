@@ -1,0 +1,33 @@
+body{
+    padding: 0;margin: 0;
+    background-color: #e5d9b6;
+}
+h1{
+    background-color: #A4BE7B;
+    text-align: center;
+}
+.container{
+   
+    margin: auto;
+    
+    overflow: auto;
+}
+.container .pic img{
+    display: inline-block;
+    height: 800px;
+}
+.container .pic{
+    display: inline-block;
+   
+}
+.container .aboutus{
+    display: inline-block;
+    position: absolute;
+    font-size: 20px;
+    font-size: 25px;
+    padding: 8px;
+    text-align: justify;
+
+}.container h2{
+    text-align: center;
+}

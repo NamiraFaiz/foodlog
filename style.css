@@ -1,0 +1,95 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color:#E5D9B6;
+}
+.nav {
+    overflow: auto;
+    background-color: #A4BE7B;
+  }
+  .nav h3{
+    display: inline-block;
+    font-family: 'Dancing Script', cursive;
+    /* font-family: 'Kalam', cursive; */
+  padding: 0px 0px 0px 20px;
+  margin-top: 20px;
+  font-size: 25px;
+  }
+  
+  
+  .nav ul {
+   
+    list-style: none;
+    display: inline;
+  }
+  
+  .nav ul li {
+  float: right;
+  font-size: 20px;
+  
+  }
+  .nav ul li a{
+display: block;
+text-decoration: none;
+padding: 20px 15px;
+color: black;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .nav ul li a:hover{
+    background-color: ;
+  }
+
+/*.nav{
+ padding: 5px;  
+  
+}
+
+  .nav .logo  {
+display: inline-block;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 30px;
+font-family: 'Dancing Script', cursive;
+margin: 0;
+}
+.nav ul{
+    display: inline-block;
+    float: right;
+  
+}
+nav ul li {
+    list-style: none;
+    display: inline-block;
+   padding: 8px; 
+   
+   text-decoration: none;
+   font-size: 20px;
+
+
+} 
+.nav li a {
+    text-decoration: none;
+    color: black;
+    padding-right: 10px;
+} */
+.good h4{
+    text-align: center;
+    /* font-family: 'Dancing Script', cursive; */
+    font-family: 'Kalam', cursive;
+    font-size: 60px;
+    padding: 0;
+    margin: 0;
+    background-color: ;
+}
+div.p1pol {
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    display: inline-block;
+    padding: 10px;
+    margin: 15px;
+    background-color: #A4BE7B;
+  }
+  .p1cont{
+    background-color: #A4BE7B;
+  }
+  

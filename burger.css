@@ -1,0 +1,32 @@
+body{
+    margin: 0;padding: 0;
+}
+.container{
+    width: 95%;
+    margin: auto;
+    background-color: #e5d9b6;
+    overflow: auto;
+}
+.container h2{
+background-color: #a4be7b;
+text-align: center;
+}
+.div1 .pic{
+    display: inline-block;
+}
+ .div1 .ingr{
+    display: inline-block;
+    position: absolute;
+    width: 55%;
+}
+.div1 .inst{
+    display: inline-block;
+    position: absolute;
+    top: 420px;
+    text-align: justify;
+    width: 55%;
+}
+.head{
+    text-align: center;
+    background-color: #a4be7b;
+}
